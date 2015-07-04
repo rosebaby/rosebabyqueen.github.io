@@ -4,4 +4,4 @@ title: "First Post, Launches Site"
 date: 2015-07-04
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This blog is set up following the post of [Jonathan McGlone](http://jmcglone.com/guides/github-pages/). It is powered by [Jekyll](http://jekyllrb.com).
