@@ -1,4 +1,4 @@
-#Unit Test Nodes
+#Unit Test Notes
 
 ##how to write Unit Test
 
@@ -15,7 +15,7 @@ Junit provides assert* to ease test
 
 I prefer assertThat() provideded by **Hamcrest**
 
-    assertThat(response, object, is(notNullValue))
+    assertThat(response, object, is(notNullValue()))
     assertThat(response, x, is(3))
 
 assertThat() is more readable.
